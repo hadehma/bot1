@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "595997769999712276"; // ???? ???????
-var channel = "595997770129735782";//???? ?????
+var server = "645633746384715786"; // ???? ???????
+var channel = "780697173251588116";//???? ?????
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**i love _Hma , i love _Hma , i love _Hma  , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , i love _Hma   , **')
     },305);
